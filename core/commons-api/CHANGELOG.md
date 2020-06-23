@@ -3,6 +3,46 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [10.0.0-next.1](https://github.com/verdaccio/monorepo/compare/v10.0.0-next.0...v10.0.0-next.1) (2020-04-12)
+
+**Note:** Version bump only for package @verdaccio/commons-api
+
+
+
+
+
+# [10.0.0-next.0](https://github.com/verdaccio/monorepo/compare/v9.4.0...v10.0.0-next.0) (2020-03-28)
+
+**Note:** Version bump only for package @verdaccio/commons-api
+
+
+
+
+
+# [9.4.0](https://github.com/verdaccio/monorepo/compare/v9.3.4...v9.4.0) (2020-03-21)
+
+**Note:** Version bump only for package @verdaccio/commons-api
+
+
+
+
+
+## [9.3.2](https://github.com/verdaccio/monorepo/compare/v9.3.1...v9.3.2) (2020-03-08)
+
+**Note:** Version bump only for package @verdaccio/commons-api
+
+
+
+
+
+## [9.3.1](https://github.com/verdaccio/monorepo/compare/v9.3.0...v9.3.1) (2020-02-23)
+
+**Note:** Version bump only for package @verdaccio/commons-api
+
+
+
+
+
 # [9.0.0](https://github.com/verdaccio/monorepo/compare/v8.5.3...v9.0.0) (2020-01-07)
 
 **Note:** Version bump only for package @verdaccio/commons-api

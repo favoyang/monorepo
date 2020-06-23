@@ -3,6 +3,49 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [10.0.0-next.1](https://github.com/verdaccio/monorepo/compare/v10.0.0-next.0...v10.0.0-next.1) (2020-04-12)
+
+
+### chore
+
+* update dependencies ([48e080d](https://github.com/verdaccio/monorepo/commit/48e080d9dcf55997c2af1169b7d99e840dd0bf90))
+
+
+### BREAKING CHANGES
+
+* New minimum Prettier version is 2.0.4, to avoid regressions from v1
+
+
+
+
+
+# [10.0.0-next.0](https://github.com/verdaccio/monorepo/compare/v9.4.0...v10.0.0-next.0) (2020-03-28)
+
+
+### chore
+
+* update tools dependencies and deprecate Node 8 ([61e23d5](https://github.com/verdaccio/monorepo/commit/61e23d53b82c6948601f28337fdd3054b9336914))
+
+
+### BREAKING CHANGES
+
+* New minimum Node version supported is 10.x. Also, new Prettier minimum version is 2.0.2
+
+
+
+
+
+## [9.3.2](https://github.com/verdaccio/monorepo/compare/v9.3.1...v9.3.2) (2020-03-08)
+
+
+### Bug Fixes
+
+* update typescript@3.8.2 ([#333](https://github.com/verdaccio/monorepo/issues/333)) ([356c09b](https://github.com/verdaccio/monorepo/commit/356c09b4a212321245f1c89629107dbfbd546b9b))
+
+
+
+
+
 # [9.0.0](https://github.com/verdaccio/monorepo/compare/v8.5.3...v9.0.0) (2020-01-07)
 
 

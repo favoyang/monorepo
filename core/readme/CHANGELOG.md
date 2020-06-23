@@ -3,6 +3,61 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [10.0.0-next.1](https://github.com/verdaccio/monorepo/compare/v10.0.0-next.0...v10.0.0-next.1) (2020-04-12)
+
+**Note:** Version bump only for package @verdaccio/readme
+
+
+
+
+
+# [10.0.0-next.0](https://github.com/verdaccio/monorepo/compare/v9.4.0...v10.0.0-next.0) (2020-03-28)
+
+**Note:** Version bump only for package @verdaccio/readme
+
+
+
+
+
+# [9.4.0](https://github.com/verdaccio/monorepo/compare/v9.3.4...v9.4.0) (2020-03-21)
+
+**Note:** Version bump only for package @verdaccio/readme
+
+
+
+
+
+## [9.3.3](https://github.com/verdaccio/monorepo/compare/v9.3.2...v9.3.3) (2020-03-11)
+
+
+### Bug Fixes
+
+* update jsdom@16.2.1 ([#340](https://github.com/verdaccio/monorepo/issues/340)) ([6060769](https://github.com/verdaccio/monorepo/commit/6060769d52f796337dda9f1a54f149c5fb22ca17))
+
+
+
+
+
+## [9.3.2](https://github.com/verdaccio/monorepo/compare/v9.3.1...v9.3.2) (2020-03-08)
+
+
+### Bug Fixes
+
+* security dependency jsdom@16.2.0 update ([#338](https://github.com/verdaccio/monorepo/issues/338)) ([0599f3e](https://github.com/verdaccio/monorepo/commit/0599f3e16fd1de993494943e2e7464d10b62d6be))
+* update dependencies ([#332](https://github.com/verdaccio/monorepo/issues/332)) ([b6165ae](https://github.com/verdaccio/monorepo/commit/b6165aea9b7e4012477081eae68bfa7159c58f56))
+
+
+
+
+
+## [9.3.1](https://github.com/verdaccio/monorepo/compare/v9.3.0...v9.3.1) (2020-02-23)
+
+**Note:** Version bump only for package @verdaccio/readme
+
+
+
+
+
 # [9.3.0](https://github.com/verdaccio/monorepo/compare/v9.2.0...v9.3.0) (2020-01-29)
 
 **Note:** Version bump only for package @verdaccio/readme
